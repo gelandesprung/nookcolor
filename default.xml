@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="aosp"
-           fetch="https://github.com/android" />
+           fetch="http://git.omapzoom.org/" />
 
   <remote  name="github"
            fetch=".."
