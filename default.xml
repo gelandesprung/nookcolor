@@ -2,10 +2,10 @@
 <manifest>
 
   <remote  name="aosp"
-           fetch="http://git.omapzoom.org/" />
+           fetch="http://git.omapzoom.org" />
 
   <remote  name="github"
-           fetch=".."
+           fetch="https://github.com"
            review="review.cyanogenmod.org" />
 
   <remote  name="private"
